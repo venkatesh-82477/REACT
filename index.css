@@ -1,0 +1,64 @@
+body{
+  background-image: linear-gradient(rgb(189, 189, 246),pink,rgb(241, 229, 229));
+  height: 500px;
+  background-repeat: no-repeat;
+}
+h1{
+  text-align: center;
+  text-shadow: 3px 3px 3px aquamarine;
+}
+
+#but1{
+  background-color: aquamarine;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+#but2{
+  background-color: aquamarine;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+#func{
+  width: 350px;
+  height: 250px;
+  margin: 10px;
+  
+  background-color: aqua;
+  border-radius: 20px;
+  align-items: center;
+  border: 3px solid black;
+  
+}
+#para1{
+  font-size: 25px;
+  text-align: center;
+}
+#p1 {
+  text-align: center;
+}
+#func1{
+  width: 350px;
+  height: 250px;
+  margin-top: 10px;
+  background-color: aqua;
+  border-radius: 20px;
+  align-items: center;
+  border: 3px solid black;
+  
+}
+#flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+#box1{
+  align-items: center;
+  position: relative;
+  left:250px ;
+}
+#box2{
+  align-items: center;
+  position: relative;
+  left:250px ;
+}
